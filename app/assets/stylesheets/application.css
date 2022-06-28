@@ -15,9 +15,11 @@
  */
  body { padding-top: 50px;
         padding-bottom: 10px;
-        background-color: rgb(122, 122, 122)
-        }
- div.container { background-color: rgb(249, 255, 222);}
- footer { margin-top: 10px; }
+        background-color: rgb(249, 255, 222); }
+ /* div.container { background-color: rgb(249, 255, 222);} */
+ footer { margin-top: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: rgb(168, 255, 158) }
  table, td, th { vertical-align: middle; border: none; }
- th { border-bottom: 1px solid rgb(242, 255, 140); }
+ th { border-bottom: 1px solid rgb(255, 255, 255); }
